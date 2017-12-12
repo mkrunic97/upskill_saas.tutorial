@@ -36,6 +36,7 @@ group :development, :test do
 end
 
 #Using Twitter bootstrap library for front end UI and layout
+#SASS language allows to write css but capable of creating variables, etc.
 gem 'bootstrap-sass', '3.3.7'
 
 group :development do
